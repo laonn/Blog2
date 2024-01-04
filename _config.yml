@@ -200,7 +200,9 @@ jekyll_compose:
       description:
       category:
       tags:
+      toc: 
     posts:
       description:
       category:
       tags:
+      toc: 
