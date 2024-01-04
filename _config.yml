@@ -93,7 +93,7 @@ comments:
     repo_id: "R_kgDOLAHk1g"
     category: "Announcements"
     category_id: "DIC_kwDOLAHk1s4CcL2C"
-    mapping: "pathname" # optional, default to 'pathname'
+    mapping: "title" # optional, default to 'pathname'
     input_position: "pathname" # optional, default to 'bottom'
     lang: "ko" # optional, default to the value of `site.lang`
     reactions_enabled: "1" # optional, default to the value of `1`
