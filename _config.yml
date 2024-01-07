@@ -16,7 +16,7 @@ timezone: Asia/Seoul
 
 title: Laon's Blog # the main title
 
-tagline: 임시 # it will display as the sub-title
+tagline: 라온의 공개 다이어리 # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
