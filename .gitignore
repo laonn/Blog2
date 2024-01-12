@@ -25,3 +25,5 @@ _drafts
 
 #imgstorage
 imgstorage
+assets/img/*
+!assets/img/favicons/*
