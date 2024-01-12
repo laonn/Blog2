@@ -19,7 +19,7 @@ title: Laon's Blog # the main title
 tagline: 라온의 공개 다이어리 # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
- 라온(주인장)의 개인적인 공개 다이어리
+ 라온의 개인적인 공개 다이어리
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -35,7 +35,7 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Laon
-  email: example@domain.com # change to your email address
+  email: laon@laon.blog # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/username # change to your twitter homepage
