@@ -58,10 +58,12 @@
         <span class="icon-border"></span>
       {% endif %}
     {% endunless %}
+    
+    {% comment %} {% when 'github', 'twitter' %} {% endcomment %} <!-- 기존의 코드 -->
 
     {% for entry in site.data.contact %}
       {% case entry.type %}
-        {% when 'github', 'twitter' %}
+        {% when 'github' %}
           {%- capture url -%}
             https://{{ entry.type }}.com/{{ site[entry.type].username }}
           {%- endcapture -%}
