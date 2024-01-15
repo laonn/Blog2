@@ -4,3 +4,17 @@
 @import 'main';
 
 /* append your custom style below */
+
+img {
+    border: 2px solid transparent; /* 테두리 스타일과 색상 설정 */
+    border-radius: 20px;
+    transition: border-color 0.5s ease;
+}
+
+img:hover {
+    border-color: #bfffff;
+}
+
+::selection {
+    background-color: #bfffff;
+  }
