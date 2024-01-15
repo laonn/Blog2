@@ -27,3 +27,6 @@ _drafts
 imgstorage
 assets/img/**/*
 !assets/img/favicons/*
+
+#command 
+command
