@@ -70,10 +70,10 @@ theme_mode: # [light|dark]
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn: https://laon.ddns.net
+img_cdn: https://image.laon.blog
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://imagedelivery.net/1xONaxScBAaygXaURR2ANg/assets/avatar.JPG/public
+avatar: https://image.laon.blog/avatar/avatar.jpeg
 
 # boolean type, the global switch for TOC in posts.
 toc: true
